@@ -1,3 +1,9 @@
+# Todo List
+Todo list created with Django Rest Framework on the backend, React on the frontend, and styled with Bootstrap
+
+## Demo
+![](TodoListAppDemo.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
